@@ -1,0 +1,29 @@
+LINK TO FONT https://fonts.google.com/specimen/Open+Sans
+
+//light color pallet
+
+959595 dark grey
+e6e6e6 light grey
+
+//dark color pallet
+
+313131 dark grey
+959595 light grey
+
+//light branch colorings
+
+marines red 931b1b
+air force yellow 171c20
+army green 287e17
+navy blue 14147b
+coast guard purple 7e1582
+
+//dark branch colorings
+
+marines red 701616
+air force yellow 91951b
+army green 206612
+navy blue 0f0f5b
+coast guard purple 510d54
+
+
