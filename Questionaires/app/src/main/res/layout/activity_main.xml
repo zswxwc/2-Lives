@@ -18,23 +18,10 @@
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-<<<<<<< HEAD
         android:text="Button3"
         app:layout_constraintBottom_toTopOf="@+id/answer4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
-=======
-        android:text="Button1"
-        android:background="?attr/colorAccent"
-        app:layout_constraintBottom_toTopOf="@+id/answer2"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
-        style="@style/Army_Light"/>
-<<<<<<< HEAD
->>>>>>> 10f906b644e633a9f1d8c287ca26bffdf4fc21fd
-=======
->>>>>>> 10f906b644e633a9f1d8c287ca26bffdf4fc21fd
 
     <Button
         android:id="@+id/answer4"
@@ -45,17 +32,10 @@
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-<<<<<<< HEAD
         android:text="Button4"
         app:layout_constraintBottom_toBottomOf="parent"
-=======
-        android:text="Button2"
-        android:background="?attr/colorAccent"
-        app:layout_constraintBottom_toTopOf="@+id/answer3"
->>>>>>> 10f906b644e633a9f1d8c287ca26bffdf4fc21fd
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        style="@style/Army_Light"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/answer2"
@@ -64,17 +44,10 @@
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-<<<<<<< HEAD
         android:text="Button2"
         app:layout_constraintBottom_toTopOf="@+id/answer3"
-=======
-        android:text="Button3"
-        android:background="?attr/colorAccent"
-        app:layout_constraintBottom_toTopOf="@+id/answer4"
->>>>>>> 10f906b644e633a9f1d8c287ca26bffdf4fc21fd
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        style="@style/Army_Light"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/answer1"
@@ -83,23 +56,11 @@
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-<<<<<<< HEAD
         android:text="Button1"
         app:layout_constraintBottom_toTopOf="@+id/answer2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent" />
-=======
-        android:text="Button4"
-        android:background="?attr/colorAccent"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        style="@style/Army_Light"/>
-<<<<<<< HEAD
->>>>>>> 10f906b644e633a9f1d8c287ca26bffdf4fc21fd
-=======
->>>>>>> 10f906b644e633a9f1d8c287ca26bffdf4fc21fd
 
     <TextView
         android:id="@+id/question"

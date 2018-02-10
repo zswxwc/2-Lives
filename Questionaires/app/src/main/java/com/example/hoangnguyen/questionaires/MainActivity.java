@@ -9,7 +9,6 @@ import android.view.TextureView;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import android.graphics.PorterDuff;
 
 import java.util.Random;
 
