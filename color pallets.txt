@@ -1,4 +1,10 @@
 LINK TO FONT https://fonts.google.com/specimen/Open+Sans
+--font sizes--
+for headings 100
+for question text 80
+
+200 for answers
+
 
 //light color pallet
 
