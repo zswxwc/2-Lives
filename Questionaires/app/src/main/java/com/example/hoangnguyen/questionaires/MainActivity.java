@@ -9,7 +9,6 @@ import android.view.TextureView;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import android.graphics.PorterDuff;
 
 import java.util.Random;
 
@@ -114,7 +113,7 @@ public class MainActivity extends AppCompatActivity {
         alertDialogBuilder
                 .setMessage("Game Over! Your score is " + mScore + " points.")
                 .setCancelable(false)
-                .setPositiveButton("New Game",
+                .setPositiveButton("Again",
                         new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialogInterface, int i) {

@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <style name="Marines_Light_Theme" parent="Theme.AppCompat">
         <item name="colorPrimary">#e6e6e6</item>
         <item name="colorPrimaryDark">#959595</item>
@@ -62,4 +63,15 @@
         <item name="colorPrimaryDark">#313131</item>
         <item name="colorAccent">#510d54</item>
     </style>
+=======
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+>>>>>>> e3cff3594f8abbd825ea2e57d5666e0c5033c43c
 </resources>
