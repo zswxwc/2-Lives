@@ -1,60 +1,63 @@
 <resources>
-    <style name="Marines_Light" parent="Theme.AppCompat">
+    <style name="Marines_Light_Theme" parent="Theme.AppCompat">
         <item name="colorPrimary">#e6e6e6</item>
         <item name="colorPrimaryDark">#959595</item>
         <item name="colorAccent">#931b1b</item>
     </style>
 
-    <style name="AirForce_Light" parent="Theme.AppCompat">
+    <style name="AirForce_Light_Theme" parent="Theme.AppCompat">
         <item name="colorPrimary">#e6e6e6</item>
         <item name="colorPrimaryDark">#959595</item>
         <item name="colorAccent">#171c20</item>
-        <item name="actionMenuTextColor">#959595</item>
+        <item name="android:textColorPrimary">#959595</item>
     </style>
 
-    <style name="Army_Light" parent="Theme.AppCompat">
+    <style name="Army_Light_Theme" parent="Theme.AppCompat">
         <item name="colorPrimary">#e6e6e6</item>
         <item name="colorPrimaryDark">#959595</item>
         <item name="colorAccent">#287e17</item>
+        <item name="android:textColorPrimary">#959595</item>
     </style>
 
-    <style name="Navy_Light" parent="Theme.AppCompat">
+    <style name="Navy_Light_Theme" parent="Theme.AppCompat">
         <item name="colorPrimary">#e6e6e6</item>
         <item name="colorPrimaryDark">#959595</item>
         <item name="colorAccent">#14147b</item>
+        <item name="android:textColorPrimary">#959595</item>
     </style>
 
-    <style name="CoastGuard_Light" parent="Theme.AppCompat">
+    <style name="CoastGuard_Light_Theme" parent="Theme.AppCompat">
         <item name="colorPrimary">#e6e6e6</item>
         <item name="colorPrimaryDark">#959595</item>
         <item name="colorAccent">#7e1582</item>
+        <item name="android:textColorPrimary">#959595</item>
     </style>
 
-    <style name="Marines_Dark" parent="Theme.AppCompat">
+    <style name="Marines_Dark_Theme" parent="Theme.AppCompat">
         <item name="colorPrimary">#959595</item>
         <item name="colorPrimaryDark">#313131</item>
         <item name="colorAccent">#701616</item>
     </style>
 
-    <style name="AirForce_Dark" parent="Theme.AppCompat">
+    <style name="AirForce_Dark_Theme" parent="Theme.AppCompat">
         <item name="colorPrimary">#959595</item>
         <item name="colorPrimaryDark">#313131</item>
         <item name="colorAccent">#91951b</item>
     </style>
 
-    <style name="Army_Dark" parent="Theme.AppCompat">
+    <style name="Army_Dark_Theme" parent="Theme.AppCompat">
         <item name="colorPrimary">#959595</item>
         <item name="colorPrimaryDark">#313131</item>
         <item name="colorAccent">#206612</item>
     </style>
 
-    <style name="Navy_Dark" parent="Theme.AppCompat">
+    <style name="Navy_Dark_Theme" parent="Theme.AppCompat">
         <item name="colorPrimary">#959595</item>
         <item name="colorPrimaryDark">#313131</item>
         <item name="colorAccent">#0f0f5b</item>
     </style>
 
-    <style name="CoastGuard_Dark" parent="Theme.AppCompat">
+    <style name="CoastGuard_Dark_Theme" parent="Theme.AppCompat">
         <item name="colorPrimary">#959595</item>
         <item name="colorPrimaryDark">#313131</item>
         <item name="colorAccent">#510d54</item>

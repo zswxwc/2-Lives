@@ -22,8 +22,7 @@
         app:layout_constraintBottom_toTopOf="@+id/answer2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
-        style="@style/Army_Light"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/answer2"
@@ -36,8 +35,7 @@
         android:background="?attr/colorAccent"
         app:layout_constraintBottom_toTopOf="@+id/answer3"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        style="@style/Army_Light"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/answer3"
@@ -50,8 +48,7 @@
         android:background="?attr/colorAccent"
         app:layout_constraintBottom_toTopOf="@+id/answer4"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        style="@style/Army_Light"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/answer4"
@@ -66,8 +63,7 @@
         android:background="?attr/colorAccent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        style="@style/Army_Light"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
         android:id="@+id/question"
