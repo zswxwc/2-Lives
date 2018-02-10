@@ -22,8 +22,11 @@
 =======
         android:text="Button1"
 <<<<<<< HEAD
+<<<<<<< HEAD
         android:background="?attr/colorAccent"
 >>>>>>> 102bddd1843825a30bb22706f27bad5d518edd44
+=======
+>>>>>>> parent of 102bddd... color boxes
 =======
 >>>>>>> parent of 102bddd... color boxes
         app:layout_constraintBottom_toTopOf="@+id/answer2"
@@ -41,8 +44,11 @@
 =======
         android:text="Button2"
 <<<<<<< HEAD
+<<<<<<< HEAD
         android:background="?attr/colorAccent"
 >>>>>>> 102bddd1843825a30bb22706f27bad5d518edd44
+=======
+>>>>>>> parent of 102bddd... color boxes
 =======
 >>>>>>> parent of 102bddd... color boxes
         app:layout_constraintBottom_toTopOf="@+id/answer3"
@@ -61,8 +67,11 @@
 =======
         android:text="Button3"
 <<<<<<< HEAD
+<<<<<<< HEAD
         android:background="?attr/colorAccent"
 >>>>>>> 102bddd1843825a30bb22706f27bad5d518edd44
+=======
+>>>>>>> parent of 102bddd... color boxes
 =======
 >>>>>>> parent of 102bddd... color boxes
         app:layout_constraintBottom_toTopOf="@+id/answer4"
@@ -83,8 +92,11 @@
 =======
         android:text="Button4"
 <<<<<<< HEAD
+<<<<<<< HEAD
         android:background="?attr/colorAccent"
 >>>>>>> 102bddd1843825a30bb22706f27bad5d518edd44
+=======
+>>>>>>> parent of 102bddd... color boxes
 =======
 >>>>>>> parent of 102bddd... color boxes
         app:layout_constraintBottom_toBottomOf="parent"
